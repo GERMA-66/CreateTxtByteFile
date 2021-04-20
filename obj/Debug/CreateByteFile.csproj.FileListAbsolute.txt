@@ -1,0 +1,6 @@
+I:\C#Text\CreateByteFile\bin\Debug\CreateByteFile.exe.config
+I:\C#Text\CreateByteFile\bin\Debug\CreateByteFile.exe
+I:\C#Text\CreateByteFile\bin\Debug\CreateByteFile.pdb
+I:\C#Text\CreateByteFile\obj\Debug\CreateByteFile.exe
+I:\C#Text\CreateByteFile\obj\Debug\CreateByteFile.pdb
+I:\C#Text\CreateByteFile\obj\Debug\CreateByteFile.csprojAssemblyReference.cache

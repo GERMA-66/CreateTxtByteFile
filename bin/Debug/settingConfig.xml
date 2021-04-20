@@ -1,0 +1,33 @@
+﻿<setting>
+  <pathSettings>
+    <!--Excel 路径 导出的txt路径-->
+    <ExcelPath>../../数据表格/</ExcelPath>
+    <TxtPath>../../config/</TxtPath>
+    <checkData>false</checkData>
+    <packageMode>true</packageMode>
+    <compress>true</compress>
+
+    <!--总路径, Base路径, 库路径, 可执行文件路径, Class路径， 附加内容, 命名空间-->
+    <CodePath>../../game_config/</CodePath>
+    <CodeBasePath>../../game_config/src/</CodeBasePath>
+    <CodeLibPath>../../libs/</CodeLibPath>
+    <ExePath>../../</ExePath>
+    <CodeClassPath>../../tableClass/</CodeClassPath>
+    <CodeAppend></CodeAppend>
+    <CodeNamespace>game_config</CodeNamespace>
+
+    <!--生成zip文件的路径, 要压缩表的文件夹名字-->
+    <ZipPath>../../</ZipPath>
+    <ZipTablePath>config</ZipTablePath>
+
+
+  </pathSettings>
+
+  <excelSettings>
+    
+    <add key="单位表.xlsx" value="UnitCFG"/>
+    <add key="导表测试.xlsx" value="TestCFG"/>
+    <add key="导表测试 - 副本.xlsx" value="Test1CFG"/>
+    
+  </excelSettings>
+</setting>
